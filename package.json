@@ -14,7 +14,7 @@
     "license-audit": "tsx scripts/license-audit.ts"
   },
   "devDependencies": {
-    "@types/node": "^20.0.0",
+    "@types/node": "^22.0.0",
     "dotenv": "^17.4.2",
     "eslint": "^9.0.0",
     "tsx": "^4.7.0",
@@ -26,7 +26,6 @@
     "zod-to-json-schema": "^3.25.2"
   },
   "dependencies": {
-    "onnxruntime-web": "^1.27.0",
-    "vite": "8.3.3"
+    "onnxruntime-web": "^1.27.0"
   }
 }
