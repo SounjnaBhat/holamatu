@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Knowledge Card",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "intent_tags": { "type": "array", "items": { "type": "string" } },
+    "stage_tags": { "type": "array", "items": { "type": "string" } },
+    "text_kn": { "type": "string" },
+    "text_en": { "type": "string" },
+    "source": { "type": "string" },
+    "agronomist_review": { "enum": ["pending", "approved", "rejected"] }
+  },
+  "required": ["id", "intent_tags", "text_kn", "text_en", "source", "agronomist_review"]
+}

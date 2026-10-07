@@ -1,0 +1,7 @@
+id: irrigation_template_01
+lang: kn
+human_review: pending
+template: >
+  ನಿಮ್ಮ ಬೆಳೆಯ ಹಂತ {stage}. ಪ್ರಸ್ತುತ {dToday} ಮಿ.ಮೀ ನೀರಿನ ಕೊರತೆ ಇದೆ.
+  ಸಲಹೆ: {headline}.
+  {% if cautions %} ಗಮನಿಸಿ: {cautions[0]} {% endif %}

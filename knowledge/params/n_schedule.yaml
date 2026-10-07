@@ -1,0 +1,23 @@
+# yaml-language-server: $schema=../../schemas/param.schema.json
+name: nitrogen_top_dressing
+unit: kg_urea_per_acre
+source: {doc: "UAS Dharwad Package of Practices", page: 112, year: 2022}
+agronomist_review: "Approved by Dharwad KVK"
+unknown_key_policy:
+  strategy: conservative_low
+  ask_if_spread_exceeds: 0.20
+values:
+  - when: {stage: V4, agro_climatic_zone: northern_transition}
+    value: 25
+  - when: {stage: V6, agro_climatic_zone: northern_transition}
+    value: 25
+  - when: {stage: V4}
+    value: 20
+  - when: {stage: V6}
+    value: 20
+  - when: {stage: VT}
+    value: 10
+  - when: {stage: R1}
+    value: 10
+  - when: {}
+    value: 0

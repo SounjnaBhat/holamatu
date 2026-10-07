@@ -1,0 +1,7 @@
+id: irrigation_01
+intent_tags: [irrigation_advice, water_stress]
+text_en: "Maize requires 400-600 mm of water during the growing season. The most critical stages for irrigation are tasseling (VT) and silking (R1). Moisture stress at these stages reduces yield by up to 40%."
+text_kn: "ಮೆಕ್ಕೆಜೋಳಕ್ಕೆ 400-600 ಮಿ.ಮೀ ನೀರಿನ ಅಗತ್ಯವಿದೆ. ರೇಷ್ಮೆ ಬರುವ (VT/R1) ಹಂತದಲ್ಲಿ ನೀರು ಅತ್ಯಗತ್ಯ."
+source: "UAS-Dharwad POP"
+human_review: pending
+agronomist_review: pending

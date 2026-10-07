@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Rulepack",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string" },
+    "intent": { "type": "string" },
+    "preconditions": { "type": "object" },
+    "priority": { "type": "integer" },
+    "advisory_template_id": { "type": "string" },
+    "required_inputs": { "type": "array", "items": { "type": "string" } },
+    "sources": { "type": "array", "items": { "type": "string" } },
+    "agronomist_review": { "enum": ["pending", "approved", "rejected"] }
+  },
+  "required": ["id", "intent", "preconditions", "priority", "advisory_template_id", "sources", "agronomist_review"]
+}

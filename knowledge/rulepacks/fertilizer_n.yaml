@@ -1,0 +1,21 @@
+name: Fertilizer Rules
+rules:
+  - id: FERT_N_TOP_DRESSING_V4
+    intent: fertilizer_dose
+    type: stage_fertilizer
+    stage:
+      - vegetative
+    action:
+      advise: APPLY_FERTILIZER
+      ruleId: FERT_N_TOP_DRESSING_V4
+      reason: First nitrogen top-dressing is recommended at the vegetative stage (30-40 days). Apply PLACEHOLDER_UREA_DOSE kg/ha Urea.
+      source: PLACEHOLDER_UAS
+  
+  - id: FERT_N_LATE
+    intent: fertilizer_dose
+    type: fallback
+    action:
+      advise: WAIT
+      ruleId: FERT_N_LATE
+      reason: Nitrogen top-dressing is not recommended at this stage.
+      source: PLACEHOLDER_UAS

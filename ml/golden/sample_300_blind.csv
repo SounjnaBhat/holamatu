@@ -1,0 +1,382 @@
+original_question,answers,assigned_intent,genuinely_out_of_scope,ambiguous,suggested_new_intent
+query regarding control measures of pest in maize,suggested profex super @ 2 ml per litr of water,pest_management,,,
+asking about the name of variety for maize.,recommended to grow ganga-5 hybrid maize variety.,variety_recommendation,,,
+sking for controll of soil pest in maize,suggested him to drench the soil with classic-20 @ 3 ml per litre of water,pest_management,,,
+asking about to cultivate maize after flood,suggested that maize can be cultivated immediatly after flood,out_of_scope,,,
+"asking about the sowing time of maize and the spacing distance
+",spring crops are sown from late february to the end of march. spacing-row-row-60-70 cm and seed -seed 20-25 cm,sowing_window,,,
+asking about varieties of maize and sowing season,"suggested him the following maize varieties- ganga 2,ganga 5
+sowing time-january",sowing_window,,,
+asking for remedy against borer in maize,"suggested to spray larvin @ 2gm/litre water,2 sprays at an interval of 5 days
+",pest_management,,,
+asking about dose of urea as top dressing in maize,urea should be top dressed in  30days after sowing and 60 days after sowing,fertilizer_dose,,,
+asked about availabilty of seeds and other facility for growing maize,--told him to visit krishi vigyan kedra and distrcit agriculture office,out_of_scope,,,
+"asking about control measure of stem borer of maize
+","spray dimethoate @ 2 ml per lit of water, 3 sprays at 4 days interval",pest_management,,,
+"asking about sowing time and duration of maize.
+","sowing time of maize is february to april. duration depends upon variety.
+ganga5- 110-120 days
+vivek maize hybrid- 80-90 days.",sowing_window,,,
+query regarding source of seeds for fodder maize.,advise to contact krishi vigyan kendra or district agricultural office.,out_of_scope,,,
+asking about fertilizer dose and seed rate of maize,"told him fym 10kg,urea @ 9kg,ssp@ 33kg and mop 9kg/bigha
+seed rate-3kg/bigha at the time of planting and 9kg urea applied after 1month",seed_rate_spacing,,,
+asking about control measure of dead heart of maize ,told him to spray dimethoate 30 % ec @ 1 ml per l of water 3 times at an interval of 5 days  and told him to clean  up the weeds around the plant and infected plants should be uprooted and burn it down or burry it ,out_of_scope,,,
+"asking about insect attack in maize
+",spray rogor @ 2ml/lit of water or use trichocard,pest_management,,,
+asking about fertilizer requirement and spacing in maize.,"????????? ???? ??????- ????? ???? ????? 20???? ?????? , ?? ???? ?? ?? ?? ??? ? ???? ?? ? ??. 
+????????? ??????- ?? ?????????? (?????? ??? ????)
+                           ?? ?????????? (???? ????? ????)",seed_rate_spacing,,,
+asking about maize variety ,"advised about ganga-101, ganga-5, dekkan hybrid",variety_recommendation,,,
+asking about the seed rate and fertilizer dose for maize,"recommended seed rate/bigha is 3 kg.urea 18 kg/bigha,ssp33 kg/bigha,mop 9 kg/bigha",seed_rate_spacing,,,
+asking about the price of maize,told him maize- 1365/q,market_price,,,
+asking about control of pest in maize,"suggested him to spray tricel 20 ec @ 2ml/liter of water , three times spraying in 5 days of interval",pest_management,,,
+asking about the control measure of root rot in bhindi and duration of maize.,"suggested spray captan @ 2gm/lt of water or to drench the soil around the root portion. duration of maize for hybrid var.are ganga 101=145-150 days,ganga 5=150-155 days,deccan hybrid=160-165 days.",disease_management,,,
+asking about fertilizer requirement for maize. ,"urea- 18 kg, super- 25 kg and potash 9 kg per bigha of lang. apply lime 50 kg per bigha of land 15 days before sowing. ",fertilizer_dose,,,
+asking for sowing time of maize,recommended him march april sowing time of summer maize,sowing_window,,,
+"asking about sowing time, varieties and fertilizer dose of maize ","recommended to sow during mid january- mid may
+varieties are ganga5, vivek maize hybrid 53
+fertilizer dose are urea@16kg, ssp@33kg and mop@9kg per bigha of land",sowing_window,,,
+asking for fertilizer dose of short duration maize,"recommended him 18 kg urea, 33 kg ssp and 8 kg mop per bigha",fertilizer_dose,,,
+query regarding pop of maize,"potato:
+fertilizer dose: fym/om- 6 quintal,urea -18 kg,ssp- 33 kg,mop- 8-9 kg /bigha.
+seed rate: 2.5 -3.0 kg/bigha",out_of_scope,,,
+asking for availability of good maize variety suiitable for assam,suggested to procure the maize variety- ganga 5 ,variety_recommendation,,,
+asking some recommended variety of maize fodder,"recommended variety of maize fodder: ganga-5,vijoy,african tall etc",variety_recommendation,,,
+asking about control measure of cut worm in maize,told him to apply malathion 5% dust @ 3 kg per bigha ,pest_management,,,
+query about maize sowing method and fertilizer doses.,"sowing method: maize seed should be sown with dibbling or drilling method. it is depending on the purpose of sowing, type of maize, varieties, and farm condition. seed should not be sown more than 5-6 cm depth of soil.
+fertilizer doses: fym or compost @ 6 quintal, urea- 18kg, ssp- 33kgs, mop- 9kgs.",sowing_window,,,
+asking about the control measure for mole cricket in maize,recommended to apply malathion 5% dust,out_of_scope,,,
+asking about the control measure against pink stem borer infestation maize.,advised him to spray tricel-20 or classic-20 @ 2 ml./litre of water.,pest_management,,,
+ query regarding growth of maize.,apply npk @ 10 g per liter of water at an interval of 15 days for 2 times.,out_of_scope,,,
+asking about the baby corn cultivation practices,explain in details,out_of_scope,,,
+"asking about varieties and spacing of maize
+","varieties: ganga 5, hi-starch, dhawal, naviot
+spacing plant to plant 25-30 cm row to row 60-70 cm",seed_rate_spacing,,,
+asking about the nutrient management of maize,"suggest him to apply 9 kg urea,33 kg ssp and 18 kg mop/bigha",fertilizer_dose,,,
+asking about how to contrrol rats problem the maize,suggest him to apply celphos tablets 2 no per burrow and closed the burrow,out_of_scope,,,
+asking about the fertilizer doses for maize,"suggested him to apply urea-15kg, ssp-30kg, mop-10kg per bigha",fertilizer_dose,,,
+asking about the germination problem in maize,spray malathion 50ec @ 2ml/litres of water,out_of_scope,,,
+asking about control fungal disease in maize,advice to sprey carbendazim @2gm/l of water,disease_management,,,
+asking for fertilizer dose in one bigha of maize,advised to apply 18 kg urea 33 kg super 8 kg potash in one bigha maize,fertilizer_dose,,,
+asking about the root rot in maize,spray  bavistin @ 2gram  /litres of water,disease_management,,,
+asking about some hybrid variety of maize.,"suggested to grow hybrid variety like-ganga-5,hi-starch.",variety_recommendation,,,
+asking about  control of rust in maize,"recommended  him to apply mancozeb @ 2g/lit of water spray 3 times at 3 days interval
+malathion 50 ec @ 2ml/lit of water spray  twice at 5 days interval",disease_management,,,
+asking about  the control of leaf spot in maize,suggest him to apply bavistin @ 2gm/litre of water.,disease_management,,,
+"asking about control of black bundle disease and late wilt in maize
+","spraying of blitox 50/blue copper 50/dhanucop @ 2 g/l for three times at an interval of 5 days follow by application of npk 19:19:19 @ 10 g/l for two times at an interval of 12-15 days
+",disease_management,,,
+"asking about the seed rate,spacing ,time of sowing,  variety of rabi maize and depth of planting adn fertilizer dose.","recommended to grow ganga 5 hybrid maize,spacing 60 cm row to row,25 cm plant to plant,up to mid nov but can be planted in dec, 2.5-3 cm depth of planting(urea 20 kg/bigha,ssp 33 kg/bigha,mop 8 kg/bigha)",sowing_window,,,
+"asking about the sowing time,planting distance,seed rate and fertilizer dose for maize","recommended to grow maize from feb-april,row distance 65 cm,plating distance 20-25 cm,depth 2-3 cm.seed rate 3 kg/bigha.urea 18 kg/bigha,ssp 33 kg/bigha,mop 9 kg/bigha,dried cowdung",sowing_window,,,
+asking about fertilizer requirement in maize,"told him apply  urea-24kg,ssp-33kg and mop-8kg/bigha",fertilizer_dose,,,
+asking for the process of method of sowing of maize seeds.,replied that the seeds should be dibbled at a depth of 3-4 centi metre in rows     and at 65-75 centi me tr apart and at a distance of 20-25 centi metre from seed to seed within rows.,sowing_window,,,
+query regarding some  maize plant infested with green colour worm ( suspected to be insect borer ),--,pest_management,,,
+asking about the irrigation management of maize,suggest him to apply water at cri stage.,irrigation_advice,,,
+asking about sowing time for rabi maize ,told him to sow between 20 october to 20 november ,sowing_window,,,
+control of viral disease in maize,recommended him to spray rogor @ 2 ml/lit of water,disease_management,,,
+asking about hybrid varieties of maize,"recommended hybrid varieties are - ganga 101, ganga 5, deccan hybrid",variety_recommendation,,,
+asking about nutrient management and variety of maize,"varietry - indum , deccan (hybrid)
+fertilizer - 18 kg urea, 33 kg ssp and 8 kg mop per bigha. half of urea, whole of ssp and mop are to be applied in the furrows before sowing and the remaining quantity of n is to be top dressed at 30 days after emergence of seedlings.",variety_recommendation,,,
+asking about the fertilizer in maize,"suggested him to apply urea-12kg, ssp-22kg, mop-9kg per bigha",fertilizer_dose,,,
+want to know about fertilizer requirment in maize,"adviced to apply urea 8kg, ssp 33kg, mop 8kg and fym 6 quintal per bigha",fertilizer_dose,,,
+asking about control of insect in maize,thanks,pest_management,,,
+asking about the varieties of maize under assam agroclimatic condition.,"suggested mr mojid to cultivate nld,dhawal,naviot,diara as the varieties of maize under assam agroclimatic condition.",out_of_scope,,,
+asking about sowing time of summer maize.,feb-march.,sowing_window,,,
+control of cutworm in maize,apply malathion 5 % dust @ 3 kg per bigha as soil application,out_of_scope,,,
+asking about the varities of maize,explain in details,out_of_scope,,,
+asking about the control of aphid in maize,suggested him to spray malathion 50 ec @ 2ml/liter of water,pest_management,,,
+asking for the control measure of stem borer in maize.,"suggested him to spray diazinon @ 1.5 litre per hectare by mixing in 200-250 litres of water,if sprayed with power sprayer or in 700-800 litres of water,if sprayed with hand sprayer.",pest_management,,,
+"query regarding slow growth in maize
+",spraying of npk 19:19:19 @ 10 g/l of water for two times at an interval of 12-15 days,out_of_scope,,,
+asking for maize cultivation,"adviced him accordingly viz fert. dose as urea, ssp and mop @18 kg,33kg and 9kg/bigha respectively. also use recomended variety as ganga, hi-starch, nld, dhawal, naviet, diara",out_of_scope,,,
+asking about planting time of maize,go to district agriculture office for knowing about subsidies related to farm equipment,sowing_window,,,
+asking about the field preparation of maize,explain in details,out_of_scope,,,
+asking about the  insects pest problem in pop corn,application of  atom @ 2ml per litre of water,pest_management,,,
+micro nutrient deficiency in maize,adviced to apply tracel 2 @ 2 gm per liter of water,fertilizer_dose,,,
+asking about the fertilizer dose in baby corn,"suggested him to apply urea-18 kg, ssp-33kg and mop- 8kg per bigha",fertilizer_dose,,,
+asking about the sowing time of rabi maize,suggest him to sow in the month of june -july,sowing_window,,,
+query regarding management of insect infestation in maize. , please spray acephate 75sp / rogor 2ml per liter of water  3 times at 5 days interval in the evening times. ,pest_management,,,
+asking about micro nutrient management of maize.,advice to spray vipul 2ml per litre of water.,fertilizer_dose,,,
+asking about the short duration maize variety,"recommended to grow diara,naviot short duration maize variety(85-90 days)",variety_recommendation,,,
+asking about the micro nutrient use in maize,suggested him to spray crop booster @ 2gm/liter of water,fertilizer_dose,,,
+asking about nutrient management in maize," apply 18 kg urea, 33 kg ssp and 13 kg mop per bigha",fertilizer_dose,,,
+asking for the control measure against maydis leaf blight in maize.,'zineb' or 'mancozeb' solution @ 2.0-3.0 kg a.i/ha in 1000-2000 litres of water at the time of appearance of the disease symptons or at knee-high stages whichever is earlier has been suggested to spray.,disease_management,,,
+query regarding variety of maize.,"variety: ganga 5, vivek maize hybrid 53 and 47.",variety_recommendation,,,
+asking about pest control in maize,told him to apply tricel 20 ec (chloropyriphos) @ 2ml/lit of water spray 3 time at 5 days interval,pest_management,,,
+soil insect problem in maize,apply furadan @ 1kg per bigha,pest_management,,,
+asking for the process of seed treatment of maize seeds.,replied that per kilo gram of seeds should be get treated with captan @ 3 gram or carboxyn @ 2 gram.,out_of_scope,,,
+want to know about top dressing of urea in maize,adviced to apply 4 kg urea as top dressing after 35 das per bigha,fertilizer_dose,,,
+control of collar rot in maize,advised to apply carbendazim (bavistin) @ 2 gram / litre of water,disease_management,,,
+asking nutrient manmagement in maize,"urea- 18, ssp- 30, mop- 9 kg/bigha",fertilizer_dose,,,
+asking for the fertilizer dosage in terms of per bigha of land for rabi maize cultivation.,"18, 33 and 8 kilo grams of urea, ssp and mop respectively has been suggested for per bigha of land.fym @ 600 kilo grams to be applied at the time of final land preparation whereas whole of ssp and mop and half of urea to be applied in the furrows before sowing and the remaining urea to be top dressed at 30 days after emergence of seedlings.",fertilizer_dose,,,
+asking for the control measure against turcicum leaf blight in rabi maize crop cultivation.,replied that the disease can be controlled by 2-3 foliar sprays with 0.25-0.3% zineb at an interval of 10-15 days. also suggested that application of urea followed by a light irrigation also helps to minimize the disease.,disease_management,,,
+asking about the availibility of maize seeds.,recommended him to visit local seed stores.,out_of_scope,,,
+asking for the seed treatment procedure for maize.,replied that the per kilo grams of seeds should be treated with 2 grams of carbendazim.,out_of_scope,,,
+asking about the control measure for army worm in maize.,recommended to spray rocket or decis 2.8 ec @ 1.5 ml/lit water.,pest_management,,,
+asking about the fertilizer doses of maize.,"suggested mr hussain to apply urea@18-24kg,super phosphate@33kg,and potash@8kg and compost@six quintal/bigha as the recomended doses of fertilizer of maize.",fertilizer_dose,,,
+control measure of blight in maize.,spray 'indofil m 45' 2 gm per litre of water,disease_management,,,
+regarding soil testing for maize,visit the krishi vigyan kendra to do the soil testing.,soil_health,,,
+control of insects in maize,recommended him to spray chloropyriphos @ 2 ml /lit of water,out_of_scope,,,
+ asking about the season for maize cultivation. ,the ideal time for maize cultivation during rabi season is mid september to mid october. and kharif season is february to may. since the rabi season for maize cultivation is over so please practice the cultivation in kharif season that is from the month of february to may. ,out_of_scope,,,
+query regarding insect control in maize. ,please spray fipronil 1ml/liter or acephate 75sp 2 ml/liter of water 3 times at 7 days interval in the evening time. and remove the excessivly affected plant parts from the plant and burn in a separate place away from the field.,pest_management,,,
+asking about market information for maize,suggested him to visit kvk napam tezpur for this purpose,market_price,,,
+asking about variety of rabi maize,"suggested to grow variety like-ganga 101,ganga-5,deccan hybrid,vijay,pratap etc",variety_recommendation,,,
+asking about the control of leaf spot in maize,advised to apply mancozeb @ 2 gram / litre of water,disease_management,,,
+query about sowing of maize after paddy cultivation.,"sowing time of maize: 
+1. kharif season crop: seed is sowed in the month of february/march.
+2. rabi season crop: seed is sowed in middle of october to middle of november.
+",sowing_window,,,
+asking for the control measure against turcicum leaf blight in maize crop cultivation.,suggested to to go for 2-3 foliar sprays with 0.25% mancozeb at 10-1`5 days interval as the  control measure against turcicum leaf blight in maize crop cultivation.,disease_management,,,
+asking about field preparation procedure of maize,explained in detail,out_of_scope,,,
+asking about the control of cut worm in maize,told him to spray tricel 20 ec @ 2ml /l of water,pest_management,,,
+asking for name of variety of maize,recommended him ganga hybrid,variety_recommendation,,,
+time of sowing of maize,recommended him to time of sowing january-february,sowing_window,,,
+query regarding maturity of harvesting of maize for animal feeding.  ,duration of maturity of maize is average 110-140 days. you can harvest your crop if it completed this perticular duration.,harvest_timing,,,
+asking about varieties name and productions of maize.,advised to use ganga -5 or hi-starch. production  is about 7 qt/ bigha.,out_of_scope,,,
+"asking about control measure of corn worm 
+","spray malathion 50 ec @ 2 ml per lit of water, 3 spray at 4 days interval",pest_management,,,
+querry regarding fertilizer dose of maize,"recommended to apply urea @ 24kg, ssp @ 33kg and mop @ 8kg per bigha",fertilizer_dose,,,
+asking about the requirement of fertilizer doses in maize,"suggested him to apply urea-18 to 24 kg, ssp-33kg, mop-8kg per bigha",fertilizer_dose,,,
+asking about suitable variety of maize,"suggested to grow varieties like hybrid ganga 5, compo-nld,naviot, diara etc",variety_recommendation,,,
+asking for the micro nutrient requirement in maize,suggested to spray tracel 2 @ 2 gm per liter of water,fertilizer_dose,,,
+asking about sowing time of maize,told him to sow in mid sept-mid oct,sowing_window,,,
+asking about planting time of maize in irrigated condition. .,suggested to plant maize in jan- feb in irrigated condition,sowing_window,,,
+asking about application of nutrient in maize.,spray npk 19@ 5gm/l water at 5 days interval.,fertilizer_dose,,,
+asking about irrigation system in maize,suggested to apply water before emergence as ur soil is too dry,irrigation_advice,,,
+asking about some variety name of maize.,"suggested in details regarding variety like- hybrid variety:ganga-5,hi-starch,composite variety:nld,dhawal,naviot,diara.",variety_recommendation,,,
+pest problem in maize,adviced to apply profex super @ 2 ml per liter of water,pest_management,,,
+asking about storage of maize seeds for next season,told him that hybrids seeds cannot be stored for next year sowing,post_harvest_storage,,,
+asking about the availability of maize seed,recommended to buy seed from syngenta or maheco company,out_of_scope,,,
+asking about control of leaf eating caterpillar in maize,"recommended him to apply malathion 50 ec @ 2ml/lit of water spray 3 time at 5 days interval
+for bottle gourd apply saaf @2g/lit of water spray 3 time at 5 days interval",pest_management,,,
+control of borer in maize,spray sumithion @  2 ml per liter of water,pest_management,,,
+asking for the control measure against stem borer in rabi maize crop cultication field.,"'fenitrothion 50 ec' solution @ 1 litre per 700-800 litres of water for an area of 1 hectare has been suggested to spray as the control measure against stem borer in rabi maize crop cultication field.in addition to this, suggested to pull out all the dead hearts and to destroy to kill the lingering stage of the pest in the stubbles.",pest_management,,,
+want to know post harvest operation involved in maize,explained in detail,harvest_timing,,,
+asking about the time of sowing of maize and fertilizer dose.,"advised him to sow maize during february/march and apply urea 9 kg, ssp 33 kg, mop 5 kg per bigha at the time of sowing seeds.",sowing_window,,,
+asking about fertilier dose application in maize @ 2months old.,suggested to apply 4kg urea + 8 kg ssp + 2 kg mop / bigha,out_of_scope,,,
+asking about blight in maize and nutrient deficiency,"recommended to spray indofil m 45 @ 2gm/l water 3 days at 3 days interval
+apply trace 2 or mahaphal @ 2ml/l water at 10 days interval",fertilizer_dose,,,
+query regarding control measures of aphid in maize,suggested rogor @ 2 ml per litr of water,pest_management,,,
+asking about the seed rate and variety of maize,suggest him to use ganga 5 and dhawal variety and seed rate @ 3 kg /bigha,variety_recommendation,,,
+asking about fertilizer of of maize,"advice to apply 18kg, 33kg &  9kg /bigha",fertilizer_dose,,,
+asking about fertilizer dose for maize,"adviced to apply urea 18 kg, ssp 33 kg, mop 9 kg per bigha",fertilizer_dose,,,
+asking about the control measure of shoot borer pest attack in maize.,suggested to  spray chlorpyriphos 20 ec @ 2 mililitre / litre of water.,pest_management,,,
+"asked about the control of fungal disease
+apply potash crystal (potassium permanganate) at 260-300gm for 2 bigha. and mix turmeric and lime at 9:1 ration that is 18 gm lime + 2 gm turmeric powder. also damp 2kg of salt at the corner of the pond.",apply potash crystal (potassium permanganate) at 260-300gm for 2 bigha. and mix turmeric and lime at 9:1 ration that is 18 gm lime + 2 gm turmeric powder. also damp 2kg of salt at the corner of the pond.,fertilizer_dose,,,
+query regarding high yielding variety of maize.,"ganga 5, vmh 53, vmh 47.",variety_recommendation,,,
+asking about some hybrid rabi maize variety.,"suggested about the hybrid rabi maize variety like-ganga 101,ganga-5,deccan hybrid etc.",variety_recommendation,,,
+asking for the control of insect in maize,recommended to spray malathion @ 2 ml per litre of water 3 times at an interval of 5 days,pest_management,,,
+problem of stem borer in maize.,advised him to apply classic 20 @ 2 ml / litre of water.,pest_management,,,
+query to control measure for cut worm in maize.,advice to apply malathion 5 % dust 20 gm per plant.,pest_management,,,
+asking about rotent infestation on maize,advice to apply zinc phosphite,out_of_scope,,,
+"asking about mode of application of fertilizer in maize
+","urea can be applied as basal dose as well as topdressing, dap is applied as a basal dose and mop can be applied as both basal and topdressing",fertilizer_dose,,,
+asking about water management of maize,suggested to water the field during flowering stage,irrigation_advice,,,
+asking about the control measure for cut worm in maize.,recommended to spray rocket @ 1.5 ml/lit water.,pest_management,,,
+asking for fertilizer dose of maize,"recommended him 24 kg urea, 33 kg ssp and 7 kg mop per bigha",fertilizer_dose,,,
+farmer asking query regarding seed rate of maize.,seed rate: 2.3-3 kg/bigha.,seed_rate_spacing,,,
+asking about the variety name of maize,"suggested him as dayara, hunius, ganga-5, bijay, pratap",variety_recommendation,,,
+asking about the fertilizer requirement of maize.,"suggested mr hoque to apply compost-5 tone/hactare,urea-134kg/hactare,ssp-250kg/hactare,mop-67kg/hactare.",fertilizer_dose,,,
+asking about the disease problem in maize,application of carbendizim @ 1.5 ml per litre of water,disease_management,,,
+want to know regarding cultivation of maize,"advice to apply urea 20 kg, ssp 33 kg and potash 9 kg per bigha of land. treat the seed with captan 2 g/kg of seed.",out_of_scope,,,
+asking for fertilizer dose in one bigha maize,advised to use 18 kg urea 33 kg super 9 kg potash in one bigha maize,fertilizer_dose,,,
+asking for the short variety of maize,suggested to grow variety like diara,variety_recommendation,,,
+fertilizer requirment in maize as top dressing,apply urea @ 3 kg  after 30 das,fertilizer_dose,,,
+regarding seed rate of maize,seed rate of maize- 2.5-3 kg/bigha,seed_rate_spacing,,,
+asking about the control measure against cob borer infestation in maize.,advised him to spray tricel-20 or classic-20 @ 2 ml./litre of water.,pest_management,,,
+"asking about the variety,fertilizer dose for hybrid maize","recommended to grow ganga-5 hybrid variety.apply urea 18 kg/bigha,ssp 33 kg/bigha,mop 9 kg/bigha,dry cowdung 3-4 cart load.",variety_recommendation,,,
+asking f0r the recommended sowing season for maize in his locality.,march-april has been replied and suggested too as the recommended sowing season for maize seeds in his locality.,sowing_window,,,
+asking about spacing and fertilizer dose of maize,"told him the recommended fertilizer dose of maize- urea-18.6kg/bigha,ssp- 26.7kg/bigha and mop- 7.15kg/bigha.apply half urea and full dose of ssp and mop at basal.and other half of urea to be applied at tasseling
+spacing in between rows- 60-70 cm and seeds-seeds- 20-25 cm",seed_rate_spacing,,,
+control of leaf blight in maize,spray indofil m 45 @ 2 gm per liter of water,disease_management,,,
+asking about the fodder maize  cut worm,application  of rocket @ 2 ml per litre of water,pest_management,,,
+asking about the cultivation practices and fertilizer dose for maize,"application of compost 2 quintal, urea 18 kg < 9+9>, ssp 33 kg and mop 9 kg per bigha",fertilizer_dose,,,
+asking about the seed rate of rabi maize.,suggested to apply 3 kg / bigha for line sowing in rabi maize.,seed_rate_spacing,,,
+asking about the control of army cut worm in maize,told him to spray chlropriphos @ 2ml / l of water,pest_management,,,
+asking for the control of termites in maize,suggested to spray kelthane @ 2 ml per liter of water,out_of_scope,,,
+"asking about the maize fertliser dose..
+
+","fertiliser dose= urea- 24 kg/ bigha ( 1/2 ??????  ??  ??????? 30 ????  ????  ?????? ????)
+                                  super- 33 kg/ bigha 
+                                   mop- 9 kg/ bigha.
+fym ( ??? ????) = 6 quital/ bigha ???? ?????????? ????. ",out_of_scope,,,
+asking about seed treatment in maize,seed treatment of maize is done with carbendazim @2g/kg of seeds or captan @2.5-3 g/kg of seeds,out_of_scope,,,
+asking about the irrigation in maize,given in details,irrigation_advice,,,
+asking for the approximate quantity of yield in terms of per hectare for deccan hybrid maize under irrigated condition.,65-75 quintals per hectare has been replied.,variety_recommendation,,,
+asking about sowing time of maize and spacing,told him to sow within  jan -feb and spacing 25 cm plant to plant and row  to row ,sowing_window,,,
+query regarding borer problem in maize,advised to apply classic-20 2ml/lit,pest_management,,,
+asking for leaf eating catterpillar in maize,spray fame or coragen @ 1ml/l of water @ 3spray @ 5 days interval,out_of_scope,,,
+asking about the fertilizer dose of rabi maize.,"advised him to apply urea 9 kg, ssp 33 kg , mop 8 kg per bigha at the time of last land preparation. again top dress urea @ 9 kg per bigha after 30 days of sowing seeds.",fertilizer_dose,,,
+"asking about the spacing of maize
+spacing between the seeds in rows- 65-75 cm and seed-seed distance- 20-25 cm",spacing between the seeds in rows- 65-75 cm and seed-seed distance- 20-25 cm,seed_rate_spacing,,,
+asking about whether he can sow hybrid seeds of maize that has crossed expiry date,advised him to replace the expired seeds and take new pack for sowing.,sowing_window,,,
+asking about some varieties of maize.,"???????? ????? ??? ???? ??- ????? -???, ?????-?, ??????? ???????? ???????. ",out_of_scope,,,
+asking for the procedure of fertilizer application for rabi maize cultivation.,"replied that whole doses of farm yard manure is to be applied at the time of field preparation. whole of ssp, mop and half of urea are to be applied in furrows before sowing. remaining of urea to be top dressed at 30 days after emergence of seedlings.",fertilizer_dose,,,
+asking for the procedure of method of sowing for maize seeds.,suggested that the seeds are to be dibbled in lines at a spacing of 60 cm ( from row to row) x 25 cm (from plant to plant). also suggested that seeding depth of 3 centi metre is optimum for quicker germination.,sowing_window,,,
+recommended fertilizer dose for maize cultivation.,"suggested that the recommended fertilizer dose is like-urea@ 18 kilogram / bigha,ssp @33 kilogram / bigha,mop @ 9 kilogram / bigh,compost @ 2-3 quintle/bigha.",fertilizer_dose,,,
+asking about the maize top dressing,suggest him proper dose of fertilizer,out_of_scope,,,
+"asking about the name of hybrid variety,yield/bigha of maize.","recommended to grow hybrid ganga(140-150 days),yield 7-8 quintal/bigha.",variety_recommendation,,,
+asking that at what time water is to be supplied for maize crop.,suggested that maize is primarily grown as rainfed crop;but application of irrigation at the time of soil moisture deficit ensures optimum yield.therefore proper water supply is to be maintained at the time of silking stage and grain filling stage.,irrigation_advice,,,
+query regarding control measures of stem borer of maize,suggested dusban @ 3ml per litr of water,pest_management,,,
+asking about seed treatment of maize,adviced to treat with 'carbendazim' @ 2gm per kg of seed,out_of_scope,,,
+asking for name of hybrid varieties of maize.,"advised to use ganga-5 , high starch or bibek maize hybrid- 47.",variety_recommendation,,,
+asking about the features of rs 114 maize variety and varieties recommended for assam ,"told him the characters are medium tall, duration is 80-85 days, grain quality is semi flint, extra long cob filling until the tip.
+
+also varieties for assam are ganga 101 (156 days)
+                                                             ganga 5     (155 days )
+                                                              deccan hybrid (160 days)",variety_recommendation,,,
+asking about the chemical  fertilizer dose for maize.,"advised him to apply urea 18kg, ssp 33 kg and mop 8 kg per bigha.",fertilizer_dose,,,
+"asking about name of variety of maize
+","name of varieties of maize are - ganga 101, ganga 5, deccan hybrid ",variety_recommendation,,,
+query regarding thye sowing time for maize. ,for rabi season the sowing time for maize is already over. you can starts for kharif season from february to may. if you want to apply lime then please apply 40 kg/bigha of land before 15 to 20 days of sowing.,sowing_window,,,
+asking for the control of stem borer in maize,recommended to spray tricel 20 @ 2 ml per litre of water,pest_management,,,
+querry regarding fertilizer dose od maize,"recommended to apply urea @ 18kg , ssp@ 33 kg and mop @ 8 kg per bigha",fertilizer_dose,,,
+control of mites in maize,recommended him to apply malathion 5% dust,out_of_scope,,,
+asking about the control of brown rust in maize,told him to spray roshan plus @ 2ml / l of water,disease_management,,,
+asking about market price of maize,told him 1250/qnt,market_price,,,
+asking about the maize sowing season,suggested him to can not growing maize in this season,sowing_window,,,
+asking about the control m easure of cut worm pest attack in  maize.,suggested to apply malathion 5 % dust @ 100 gram / metre square.,pest_management,,,
+asking  about the sowing time of maize,told him  the sowing time is oct to nov,sowing_window,,,
+asking about growth problem in maize plant.,"spray mohafal @ 2ml/litre of water for 2 times at 15 days interval.
+spray boron @ 2-5g/litre of water 2-3 times at 7 days interval.",out_of_scope,,,
+"asking about name of hybrid varieties of maize
+","hybrid varieties of maize are - ganga 101, ganga 5, deccan hybrid",variety_recommendation,,,
+asking recommended efrtilizer dose  and variety of maize,"suggested to apply recommended dose of fertilizer like-urea-18 kilogram,ssp-33 kilogram,mop -9 kilogram,compst-2-3 quintle/ bigha and variety-ganga-5,hi-strach,dhawal",variety_recommendation,,,
+asking about the cultivation practices of maize,given in details,out_of_scope,,,
+asking about seed rate of maize,recommended that seed rate of maize are 3kg/bigha,seed_rate_spacing,,,
+asking about maize mill machines,advice to contact with marshall fowler enginers pvt ltd,out_of_scope,,,
+asking about the some micro nutrient product name for maize,advised to apply multiplex all crops @ 2 gram / litre of water,fertilizer_dose,,,
+asking about cultural practices of rabi maize,explained in details,out_of_scope,,,
+asking about the medicine apply for storage of maize,told him to sun dried and store in a dry place,post_harvest_storage,,,
+caterpillar problem in maize,spray profex super @ 2ml per litre of water,pest_management,,,
+query regarding spacing in maize.,"row to row: 60 cm, plant to plant: 20 cm.",seed_rate_spacing,,,
+asking about duration of hybrid maize ,the duration is 90-110 days,variety_recommendation,,,
+asking about fertilizer dose of maize,"told him apply urea-24kg, ssp-33kg and mop 8kg/bigha",fertilizer_dose,,,
+asking control of root rot in maize,apply captan @ 2 gram per litre of water,disease_management,,,
+asking about varieties and fertilizer dose of maize,"varieties- ganga 5, vijoy, african tall
+fertilizer dose- 18 kg urea, 27 kg ssp and 7 kg mop per bigha",fertilizer_dose,,,
+asking about the fertilizer dose for maize cultivation,"suggested to apply recommended fertilizer dose like-urea @ 18 kilogram,ssp @ 33 kilogram,mop @ 9 kilogram/bigha",fertilizer_dose,,,
+asking for name of hybrid vaiety of maize,recommened him ganga-5,variety_recommendation,,,
+"asking about micronutrient application inmaize.
+",apply tracel 2 @ 2 g per liter of water at an interval of 15 days for 2 times.,out_of_scope,,,
+control of fungal spot in maize,advised to apply carbendazim @ 2 gram / litre of water,disease_management,,,
+asking about hybrid variety of maize,suggested to grow ganga 5,variety_recommendation,,,
+disease in maize,adviced to apply mancozeb @ 2 gm per liter of water,disease_management,,,
+asking about seed availability of maize,???? ??????? ??????? ??  ??? ???? - 9954053080,out_of_scope,,,
+asking about some hybrid maize variety.,"suggested about the variety like-ganga 5,hi-starch.",variety_recommendation,,,
+asking about the pest controle of maize,suggested him to apply tricel@2ml/l water,pest_management,,,
+asking about availability of lentil and maize seeds,told him to visit krishi vigyan kendra/seeds shop or search online websites to procure the seeds,out_of_scope,,,
+wanted to know the amount of fertilizer required for one bigha maize,advised to apply 18 kg urea 33 kg super and 9 kg potash per bigha,fertilizer_dose,,,
+asking about the fertilizer doses and variety of maize,"variety - ganga 5
+apply 24 kg urea , 33 kg ssp , 8 kg mop / bigha 
+half of urea and full doses of ssp and mop appliedas basal and another half of urea applied as top dressing after 30 days of transplanting",variety_recommendation,,,
+asking about spacing of maize,recommended to sow the seeds at a spacing of 45 cm x 25 cm,seed_rate_spacing,,,
+asking about aphid problem in maize,told him to spray imidacloprid (2ml/lit of water) @ 3 sprays at 5 days interval,pest_management,,,
+asking for duration of maize,duration of maize is 140-150 days,out_of_scope,,,
+asking about the name of the hybrid maize variety.,advised to grow ganga-5 hybrid maize variety.,variety_recommendation,,,
+asking about the nutrient management of rabi maize,"suggest him to apply 18 kg urea,33 kg ssp and 8 kg mop/bigha.",fertilizer_dose,,,
+asking about the amount and time of urea to be top dressed in rabi maize.,advised him to top dress urea @ 4 kg. per bigha after 30 days of sowing seeds. again top dress another 4 kg. urea after 30 days of this application.,fertilizer_dose,,,
+asking for the seed rate of maize,recommended to adopt seed rate of 2.5 kg per bigha,seed_rate_spacing,,,
+"querry regarding fertilizer dose , seed rate and seed treatment of maize","recommended to apply urea @18kg, ssp @33 kg and mop @ 8kg per bigha 
+seed rate is 3kg per bigha 
+seed treatment with captan @ 3gm per kg",seed_rate_spacing,,,
+asking about the varieties name of maize,"suggest him to use ganga, bijay",out_of_scope,,,
+"asking about the maize sowing time, varieties and fertiliser dose","sowing time=	maize-	october   - december	        january    -  march
+varieties= ganga -101, ganga -5 , deccan hybrid , kisan, bijoy etc
+fertiliser dose- fym - 6 q / bigha, urea- 18- 24 kg/ bigha, ssp- 33 kg / bigha, mop- 8 kg / bigha",sowing_window,,,
+asking about some variety of maize.,"advised him to select hybrid var. ganga101,ganga 5,kishan etc.",variety_recommendation,,,
+query regarding variety and seed rate of maize.,"variety: ganga 5, vivek maize hybrid 53 and 47. seed rate: 2.5-3kg/bigha. ",variety_recommendation,,,
+asking about control of stem borer in maize ,"spray bayer fame (flubendiamide ) @ 2ml/l water, 2 spray at 5 days interval.",pest_management,,,
+asking where to get seeds of baby corn maize,recommended to visit seed distributors,out_of_scope,,,
+asking that his duck suffering from corneal opacity.,tr.: 1. cipro eye drop 1 ph @ 1 drop to each eye  thrice daily.,out_of_scope,,,
+regarding fertilizer dose in maize,"recommended fertilizer dose in maize-apply urea @ 18kg/bigha,ssp @ 33kg/bigha and mop @ 9 kg/bigha.",fertilizer_dose,,,
+asking about the duration of maturity of hybrid maize,recommended duration for maturity is 120-130 days.,variety_recommendation,,,
+asking for the ideal sowing time for maize in his zone.,"as his zone comes under lower brahmaputra valley zone, february to april has been suggested as the ideal sowing time for maize.",sowing_window,,,
+asking about the hybrid maize variety.,recommended to grow ganga -5 hybrid  maize variety,variety_recommendation,,,
+want to know about controlled of stem borer in maize,adviced to apply sumithion or acothion @ 2 ml per liter of water,pest_management,,,
+"asking about the control of insect infestation in maize.
+",apply malathion 50 ec @ 2 ml per liter of water.,pest_management,,,
+asking about the maize cultivation practices,explain in details,out_of_scope,,,
+asking about spacing for maize.,line to line spacing should be 60 cm and seed to seed spacing should be 25 cm.,seed_rate_spacing,,,
+water management in maize,advised him to irrigation should be done in 3 days interval,irrigation_advice,,,
+asking about the insect problem in maize,"told him to apply profex super @ 2ml/l of water, 3 spray at 5 days interval ( insecticide)
+do ooze test",pest_management,,,
+"query regarding varieties, spacing and seed rate of maize","recommended to cultivate varieties like ganga 101, ganga 5 and deccan hybrid
+seed rate  should be 3 kg /bigha 
+spacing 60cm x 25cm",seed_rate_spacing,,,
+"asking about top dressing about fertilizer in maize after 1 month of sowing
+",apply 7 kg urea per bigha of land,sowing_window,,,
+asking about the cultivation practices and fertiliser dose of maize,answer given in details,out_of_scope,,,
+asking about the nutrient management for maize.,suggested to spray multiplex magzinc for cereals @3gm/lt of water.multiplex nagastha -180@0.5-0.5ml/lt of water.,fertilizer_dose,,,
+query regarding herbicides for maize,advised to apply lumax @ 1ml/lit or laudis @ 2ml/lit,out_of_scope,,,
+asking for the nutrient management of maize,"recommended to apply 14 kg urea, 12 kf dap , 9 kg mop and 100 kg dried cowdung per bigha",fertilizer_dose,,,
+plant protection of  maize.,"apply rocket @ 2gm/ lit
+aplly chloropyriphos @ 2gm/lit.",out_of_scope,,,
+querry regarding fertilizer dose of rabi maize,"recommended to apply urea @18kg/bigha, ssp@33kg/bigha and mop @8kg/bigha",fertilizer_dose,,,
+asking about the fertilizer dose in maize,"application of urea 9 kg before sowing and 9 kg after sowing, ssp 33 kg ssp, and mop 13 kg",fertilizer_dose,,,
+farmer asking query regarding maize,"apply
+seed rate @ 2.5-3kg per bigha
+urea- 18kg/bigha
+ssp- 33kg/bigha
+mop- 9kg/bigha",out_of_scope,,,
+asking about fertilizer application in maize,apply 18 kg urea 33 kg ssp and 9 kg potash,fertilizer_dose,,,
+"query regarding storage of maize seed
+",apply neem leaves in between the layers or in the storage room,post_harvest_storage,,,
+asking about the address of retailer for p[urchasing corn threshing  machine.,"advised to visit the retailers of agri farm machinery located at machkhowa, guwahati.",out_of_scope,,,
+asking for the manures and fertilizer dosages in terms of per bigha of land for the cultivation of maize crop.,"18-24, 33 and 8 kilo grams of urea, ssp anf mop respectively has been suggested along with 600 kilo grams of farm yard manures as  the manures and fertilizer dosages in terms of per bigha of land for the cultivation of maize crop.",fertilizer_dose,,,
+cutworm problem in maize,apply malathion 5% dust @ 3-3.5kg per bigha as soil treatment,out_of_scope,,,
+asking about time of sowing and variety for maize.,"recommended time of sowing is feb.variety ganga 5 hybrid(115 days),diara composite variety(85-90 days).",sowing_window,,,
+diseases in maize,transfered to expert,out_of_scope,,,
+"asking about maize varieties and fertilizer requirement.
+"," maize varieties- ganga-5, vivek maize hybrid-47.
+fertilizer requirement- 
+urea-20 kg/bigha
+ssp- 33 kg/bigha
+mop- 9 kg/bigha
+",fertilizer_dose,,,
+"asking about control of pink stem borer of maize
+",spraying of malathion 50 wp @ 2 g/l of water for three times at an interval of 5-7 days,pest_management,,,
+asking about the variety for maize,"suggested him to grow ganga 5, daira etc",variety_recommendation,,,
+asking about the fertilizer doses for to dress in maize,suggested him to apply urea-4kg and mop-4kg per bigha,fertilizer_dose,,,
+"asking for maize variety suitable
+maize varieties- ganga-101,ganga-5,deccan hybrid","maize varieties- ganga-101,ganga-5,deccan hybrid",variety_recommendation,,,
+asking about the sowing time of maize(winter).,advised him to select the sowing time of maize(winter) is september to october.,sowing_window,,,
+asking cultural practices for maize,explain in details as per package of practices,out_of_scope,,,
+asking about maize query,recommended that application of celphos,out_of_scope,,,
+leaf eating caterpillar problem in maize,spray profex super @ 2ml per litre of water,pest_management,,,
+asking about remedy for stem borer in maize,"spray chloropyrifos @ 2ml/litre water,2 sprays at an interval of 5 days",pest_management,,,
+asking for weedicide before maize cultivation.,apply glyphosate @ 2 ml per liter of water. (240 liters of spray volume is required for 3 bigha of land.),weed_management,,,
+asking about the control measure against caterpillar infestation in maize.,advised him to spray tricel-20 or classic-20 @ 2 ml./litre of water.,pest_management,,,
+asking about remedy for leaf eating caterpillar in maize,"spray killer(cypermethrine 10% ec) @ 2ml/litre water,2 sprays at an interval of 5 days",pest_management,,,
+asking about control of ant in maize,told him to apply malathion 50 ec @ 2ml/lit spray 3 times at 3 days interval,out_of_scope,,,
+query related to plant protection of maize.,spray dimethoate (rogor) @ 2 ml per liter of water 3 times at 7 days interval. ,out_of_scope,,,
+asking about sowing time and fertilizer dose of maize,"sowing time for maize is oct-november.
+
+fertilizer dose are urea @ 10kg, ssp@ 20kg and mop @9kg per bigha",sowing_window,,,
+asking for sowing time of rabi maize,"recommended him that the optimum time of sowing of rabi maize is middle of september
+to middle of october. sowing may be delayed up to middle of
+november, under exceptional circumstances, but this results in delayed
+maturity. no sowing should be done after november 15.",sowing_window,,,
+asking for the seed treatment in maize,suggested to apply captaf @ 2 gm per liter of water,out_of_scope,,,
+asking about stem borer problem in maize,suggested to spray classic 20/tata alpha @ 2ml/litre of water,pest_management,,,
+asking recommended variety of maize,"grow recommended variety of maize-ganga-5,vijay,pratap,deccan hybrid",variety_recommendation,,,
+face problem of pest in storage of maize,adviced to apply neem leaves in the stored maize,pest_management,,,
+asking about names of hybrid varieties of maize,recommended varieties like ganga 5 and hi-starch,variety_recommendation,,,
+ask about maize market information,"किसान कॉल सेण्टर में कॉल करनेके लिए धन्यवाद.
+",market_price,,,
+asking about fertilizer does in maize culture,"recommended that application of urea@18kg/bigha,ssp@33kg/bigha,mop@8kg/bigha",fertilizer_dose,,,
+problem of cob borer in maize.,advised him to apply phosphamidon 100 ec @ 2 ml / litre of water.,pest_management,,,
+asking about micro nutrient in maize,told him spray crop booster @ 2.5g/lit of water and tracel @ 2g/lit of water,fertilizer_dose,,,
+asking about the fertilizer doses in maize,"suggested him to apply urea-20kg, ssp-33kg, mop-8kg per bigha",fertilizer_dose,,,
+asking about the fertilizer doses in maize and spacing of maize,"told him to apply 18 kg urea , 33 kg ssp, 9 kg mop / bigha
+spacing - ( row to row * plant to plant =22.5cm *30 cm )
+depth of planting = 10 cm",seed_rate_spacing,,,
+asking about the fertilizer management in maize,given in details,fertilizer_dose,,,
+asking about weed management in maize,told him to apply atrazine @ 100 gram in 80 litres of water per bigha,weed_management,,,
+query regarding field preparation in maize,expalined details,out_of_scope,,,
+"asking about control of maize borer
+",--apply decis @ 2ml/lit of water spray 3 time at 5 days interval,pest_management,,,
+asking about remedy for fungal rust in maize,"suggested to spray saaf @ 2ml/litre,2 sprays at an interval of 5 days",disease_management,,,
+fertilizer requirement in summer maize as basal dose,"apply urea 9 kg , ssp 33 kg , mop 9 kg and dried cowdung 9 quintal per bigha as basal dose",fertilizer_dose,,,
+asking about variety and fertilizer requirement for maize. ,"--variety- kisan, bijay, pratap, ganga-5. fertilizer requirement - urea 18 kg, ssp- 33 kg, mop- 9 kg and dry cowdung 1.5 tonne per bigha of land. spacing row to row- 60-70 cm and plant to plant- 45-50 cm.",variety_recommendation,,,
+fertilizer requirment in maize,"apply urea 18 kg, ssp 33 kg and  mop 8 kg per bigha",fertilizer_dose,,,

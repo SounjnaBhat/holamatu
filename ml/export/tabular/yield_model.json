@@ -1,0 +1,12 @@
+{
+  "model_type": "ridge_linear",
+  "intercept": 3000,
+  "coefficients": {
+    "cGDD_VT": 1.2,
+    "rainfall_V4_V8": 5.0,
+    "dry_spell_max": -150.0
+  },
+  "skill_score": 0.05,
+  "descriptive_range_min": 3500,
+  "descriptive_range_max": 6500
+}

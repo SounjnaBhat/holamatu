@@ -1,0 +1,57 @@
+:root {
+  --surface-page: #faf9f7;
+  --surface-card: #ffffff;
+  --surface-sunk: #f4f2ee;
+
+  --text-primary: #1c1b19;
+  --text-secondary: #5f5e5a;
+  --text-muted: #8a8880;
+
+  --border: rgba(28, 27, 25, 0.10);
+  --border-strong: rgba(28, 27, 25, 0.20);
+
+  --act-bg: #eaf3de;
+  --act-fg: #3b6d11;
+  --act-border: #97c459;
+
+  --watch-bg: #faeeda;
+  --watch-fg: #854f0b;
+  --watch-border: #ef9f27;
+
+  --hold-bg: #e6f1fb;
+  --hold-fg: #185fa5;
+  --hold-border: #85b7eb;
+
+  --accent: #185fa5;
+  --on-accent: #ffffff;
+
+  --radius-card: 12px;
+  --radius-control: 8px;
+  --radius-pill: 22px;
+
+  --pad-card: 14px 16px;
+  --tap-min: 44px;
+
+  --font-sans: "Noto Sans", system-ui, sans-serif;
+  --font-kn: "Noto Sans Kannada", "Noto Sans", sans-serif;
+
+  --lh-latin: 1.5;
+  --lh-kannada: 1.65;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --surface-page: #1a1917;
+    --surface-card: #232220;
+    --surface-sunk: #2b2a27;
+    --text-primary: #f2f0ec;
+    --text-secondary: #b4b2a9;
+    --text-muted: #888780;
+    --border: rgba(242, 240, 236, 0.12);
+    --border-strong: rgba(242, 240, 236, 0.22);
+    --act-bg: #27500a;  --act-fg: #c0dd97;  --act-border: #639922;
+    --watch-bg: #633806; --watch-fg: #fac775; --watch-border: #ba7517;
+    --hold-bg: #0c447c;  --hold-fg: #b5d4f4; --hold-border: #378add;
+    --accent: #378add;
+  }
+}

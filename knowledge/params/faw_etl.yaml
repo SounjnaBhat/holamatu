@@ -1,0 +1,11 @@
+# yaml-language-server: $schema=../../schemas/param.schema.json
+name: faw_economic_threshold
+unit: percent_plants_damaged
+source: {doc: "ICAR-IIMR FAW Advisory", page: 7, year: 2023}
+agronomist_review: pending
+values:
+  - when: {pest_pressure: endemic}
+    value: 10
+  - when: {}          # fallback
+    value: 20
+    confidence: MEDIUM

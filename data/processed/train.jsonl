@@ -1,0 +1,2 @@
+{"id": "c_001", "text": "how much urea for maize at 30 days", "intent": "fertilizer_advice", "lang": "en", "script": "ENGLISH", "slots": [{"slot": "crop_stage", "start": 27, "end": 34, "value": "30 days"}], "source": "field", "split": "train"}
+{"id": "c_002", "text": "\u0c88 \u0cb5\u0cbe\u0cb0 \u0ca8\u0cc0\u0cb0\u0cc1 \u0cb9\u0cbe\u0caf\u0cbf\u0cb8\u0cac\u0cc7\u0c95\u0cbe", "intent": "irrigation_advice", "lang": "kn", "script": "KANNADA_SCRIPT", "slots": [{"slot": "date_range", "start": 0, "end": 5, "value": "this week"}], "source": "synthetic", "split": "train"}

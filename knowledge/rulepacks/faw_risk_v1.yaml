@@ -1,0 +1,20 @@
+rule: faw_risk_v1
+intent: pest_advice
+priority: 90
+when:
+  stage: [VE, V4, V8]
+  and_any:
+    - dry_spell_days >= 5
+    - tmax_7d_mean between [25, 32]
+  modifiers:
+    - rh_morning_7d_mean > 70: "+1 risk level"
+action_by_risk:
+  moderate: "scout 10 plants x 5 spots; count whorl damage %; install 5 pheromone traps/acre"
+  high: "as above + act if whorl damage exceeds ETL"
+etl:
+  early_whorl_V3_V6: "5% damaged plants"
+  late_whorl_V7_V8: "10-20% damaged plants"
+control: knowledge_card://faw_ipm_v1
+confidence: rule_based
+sources: [ICAR-IIMR FAW advisory, UAS-Dharwad POP]
+agronomist_review: approved

@@ -1,0 +1,6 @@
+id: irrigation_template_01
+lang: en
+template: >
+  Your field is currently at the {stage} stage. The latest weather data shows a depletion of {dToday} mm.
+  Recommendation: {headline}.
+  {% if cautions %} Please note: {cautions[0]} {% endif %}

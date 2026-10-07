@@ -1,0 +1,8 @@
+# yaml-language-server: $schema=../../schemas/param.schema.json
+name: irrigation_rain_threshold
+unit: mm
+source: {doc: "FAO-56 Crop Evapotranspiration", page: 1, year: 1998}
+agronomist_review: pending
+values:
+  - when: {}
+    value: 20

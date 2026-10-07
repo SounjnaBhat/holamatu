@@ -1,0 +1,22 @@
+[
+  {
+    "id": "faw_01",
+    "text_en": "Fall Armyworm (Spodoptera frugiperda) causes significant whorl damage in maize. Apply Emamectin benzoate 5% SG at 0.4 g/litre of water when damage exceeds 10%.",
+    "embedding": [
+      0.7408968893557331,
+      0.0779240487455779,
+      0.8946016185754218,
+      0.49403125446206064
+    ]
+  },
+  {
+    "id": "irrigation_01",
+    "text_en": "Maize requires 400-600 mm of water during the growing season. The most critical stages for irrigation are tasseling (VT) and silking (R1). Moisture stress at these stages reduces yield by up to 40%.",
+    "embedding": [
+      0.19152863810451093,
+      0.2997958677871959,
+      0.2971691124331668,
+      0.2884102209817079
+    ]
+  }
+]

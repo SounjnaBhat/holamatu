@@ -1,0 +1,2 @@
+{"id": "c_003", "text": "faw control madodu hege", "intent": "pest_advice", "lang": "kn", "script": "LATIN_ROMANIZED", "slots": [{"slot": "pest_name", "start": 0, "end": 3, "value": "faw"}], "source": "field", "split": "test"}
+{"id": "c_004", "text": "what is the market price of maize today", "intent": "market_price", "lang": "en", "script": "ENGLISH", "slots": [], "source": "field", "split": "test"}

@@ -1,0 +1,20 @@
+name: Sowing Rules
+rules:
+  - id: SOW_R1_RAIN
+    intent: sowing_window
+    type: rainfall_onset
+    threshold: 25 # mm
+    action:
+      advise: SOW
+      ruleId: SOW_R1_RAIN
+      reason: Rainfall has exceeded 25mm in the past/next 72 hours. Soil moisture is adequate for sowing.
+      source: PLACEHOLDER_UAS
+  
+  - id: SOW_R2_DRY
+    intent: sowing_window
+    type: fallback
+    action:
+      advise: WAIT
+      ruleId: SOW_R2_DRY
+      reason: Insufficient rainfall. Wait for a good soaking rain (>25mm) before sowing.
+      source: PLACEHOLDER_UAS

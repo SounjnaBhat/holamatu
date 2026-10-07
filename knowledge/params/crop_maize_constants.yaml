@@ -1,0 +1,31 @@
+# yaml-language-server: $schema=../../schemas/param.schema.json
+name: crop_maize_constants
+unit: dimensionless
+source: {doc: "FAO-56 Crop Evapotranspiration", page: 1, year: 1998}
+agronomist_review: pending
+values:
+  - when: {}
+    value:
+      Tbase: 10
+      Tmax_cap: 30
+      heat_stress_threshold_c: 35
+      MAD: 0.55
+      Kc:
+        VE: 0.30
+        V4: 0.40
+        V8: 0.70
+        VT: 1.20
+        R1: 1.20
+        R3: 1.00
+        R6: 0.60
+      GDD:
+        VE: 60
+        V4: 300
+        V8: 550
+        VT: 900
+        R1: 1000
+        R3: 1250
+        R6: 1500
+      root_zone_depth_m:
+        VE: 0.3
+        VT: 1.0

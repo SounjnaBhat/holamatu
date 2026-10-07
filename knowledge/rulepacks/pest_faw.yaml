@@ -1,0 +1,20 @@
+name: Fall Armyworm Rules
+rules:
+  - id: FAW_R1_ETL
+    intent: pest_management
+    type: etl_threshold
+    threshold: 10 # 10% infestation placeholder
+    action:
+      advise: SCOUT
+      ruleId: FAW_R1_ETL
+      reason: Infestation is at or above the Economic Threshold Level (10%). Please scout and consult your local RSK. No chemical dose is provided here.
+      source: PLACEHOLDER_ICAR
+  
+  - id: FAW_R2_MONITOR
+    intent: pest_management
+    type: fallback
+    action:
+      advise: WAIT
+      ruleId: FAW_R2_MONITOR
+      reason: Infestation is below ETL. Continue monitoring the crop.
+      source: PLACEHOLDER_ICAR

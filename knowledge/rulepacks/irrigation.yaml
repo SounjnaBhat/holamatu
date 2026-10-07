@@ -1,0 +1,42 @@
+name: Irrigation Rules
+rules:
+  - id: IRR_R1_FORECAST_RAIN
+    intent: irrigation_advice
+    type: forecast
+    threshold: 15.0 # mm
+    action:
+      advise: WAIT
+      ruleId: IRR_R1_FORECAST_RAIN
+      reason: Significant rainfall (>15mm) expected in the next 72 hours.
+      source: PLACEHOLDER_RULES
+      
+  - id: IRR_R2_CRITICAL_STAGE
+    intent: irrigation_advice
+    type: critical_stage_depletion
+    stage:
+      - flowering
+      - yield_formation
+    threshold: 0.40 # Tighter MAD
+    action:
+      advise: IRRIGATE
+      ruleId: IRR_R2_CRITICAL_STAGE
+      reason: Crop is in a critical stage (flowering/yield formation) and soil moisture depletion exceeds critical threshold (40% TAW).
+      source: PLACEHOLDER_RULES
+      
+  - id: IRR_R3_STANDARD_DEPLETION
+    intent: irrigation_advice
+    type: standard_depletion
+    action:
+      advise: IRRIGATE
+      ruleId: IRR_R3_STANDARD_DEPLETION
+      reason: Soil moisture depletion exceeds standard Management Allowed Depletion (MAD).
+      source: PLACEHOLDER_RULES
+      
+  - id: IRR_R4_NO_STRESS
+    intent: irrigation_advice
+    type: fallback
+    action:
+      advise: WAIT
+      ruleId: IRR_R4_NO_STRESS
+      reason: Soil moisture is adequate and crop is not under stress. No irrigation needed.
+      source: PLACEHOLDER_RULES

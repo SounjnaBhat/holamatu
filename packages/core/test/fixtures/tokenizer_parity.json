@@ -1,0 +1,383 @@
+[
+  {
+    "text": "how much urea for maize at 30 days",
+    "tokens": [
+      "[CLS]",
+      "how",
+      "much",
+      "ur",
+      "##ea",
+      "for",
+      "maize",
+      "at",
+      "30",
+      "days",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      2345,
+      2728,
+      55989,
+      11993,
+      1134,
+      131817,
+      1176,
+      1482,
+      3059,
+      105
+    ]
+  },
+  {
+    "text": "ಈ ವಾರ ನೀರು ಹಾಯಿಸಬೇಕಾ",
+    "tokens": [
+      "[CLS]",
+      "ಈ",
+      "ವಾರ",
+      "ನೀರು",
+      "ಹ",
+      "##ಾಯಿ",
+      "##ಸ",
+      "##ಬ",
+      "##ೇಕ",
+      "##ಾ",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      907,
+      68937,
+      8144,
+      949,
+      53653,
+      10824,
+      36393,
+      174306,
+      2542,
+      105
+    ]
+  },
+  {
+    "text": "faw control madodu hege",
+    "tokens": [
+      "[CLS]",
+      "fa",
+      "##w",
+      "control",
+      "mad",
+      "##od",
+      "##u",
+      "hege",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      69856,
+      5609,
+      4871,
+      58115,
+      12352,
+      1411,
+      180456,
+      105
+    ]
+  },
+  {
+    "text": "what is the market price of maize today",
+    "tokens": [
+      "[CLS]",
+      "what",
+      "is",
+      "the",
+      "market",
+      "price",
+      "of",
+      "maize",
+      "today",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      2007,
+      1121,
+      1108,
+      4610,
+      6812,
+      1109,
+      131817,
+      3187,
+      105
+    ]
+  },
+  {
+    "text": "why should i do that",
+    "tokens": [
+      "[CLS]",
+      "why",
+      "should",
+      "i",
+      "do",
+      "that",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      4992,
+      2192,
+      180,
+      1624,
+      1142,
+      105
+    ]
+  },
+  {
+    "text": "are you sure",
+    "tokens": [
+      "[CLS]",
+      "are",
+      "you",
+      "sure",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      1188,
+      1242,
+      8460,
+      105
+    ]
+  },
+  {
+    "text": "what if i dont",
+    "tokens": [
+      "[CLS]",
+      "what",
+      "if",
+      "i",
+      "dont",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      2007,
+      1735,
+      180,
+      108081,
+      105
+    ]
+  },
+  {
+    "text": "is there a cheaper alternative",
+    "tokens": [
+      "[CLS]",
+      "is",
+      "there",
+      "a",
+      "cheaper",
+      "alternative",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      1121,
+      1550,
+      172,
+      78721,
+      18288,
+      105
+    ]
+  },
+  {
+    "text": "🚜🌾",
+    "tokens": [
+      "[CLS]",
+      "[UNK]",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      100,
+      105
+    ]
+  },
+  {
+    "text": "neeruಹಾಕಬೇಕಾ",
+    "tokens": [
+      "[CLS]",
+      "neeru",
+      "##ಹಾ",
+      "##ಕ",
+      "##ಬ",
+      "##ೇಕ",
+      "##ಾ",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      44244,
+      48149,
+      3210,
+      36393,
+      174306,
+      2542,
+      105
+    ]
+  },
+  {
+    "text": "ಬಿಸಿ‌ಇದೆ",
+    "tokens": [
+      "[CLS]",
+      "ಬಿಸಿ",
+      "##ಇ",
+      "##ದೆ",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      44178,
+      55538,
+      3130,
+      105
+    ]
+  },
+  {
+    "text": "೧೨೩೪೫",
+    "tokens": [
+      "[CLS]",
+      "೧೨",
+      "##೩೪",
+      "##೫",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      18931,
+      101548,
+      16458,
+      105
+    ]
+  },
+  {
+    "text": "...,,!!?",
+    "tokens": [
+      "[CLS]",
+      ".",
+      ".",
+      ".",
+      ",",
+      ",",
+      "!",
+      "!",
+      "?",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      121,
+      121,
+      121,
+      119,
+      119,
+      108,
+      108,
+      138,
+      105
+    ]
+  },
+  {
+    "text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "tokens": [
+      "[CLS]",
+      "[UNK]",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      100,
+      105
+    ]
+  },
+  {
+    "text": "",
+    "tokens": [
+      "[CLS]",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      105
+    ]
+  },
+  {
+    "text": "This is an english sentence with CAsE sEnSiTiViTy.",
+    "tokens": [
+      "[CLS]",
+      "This",
+      "is",
+      "an",
+      "english",
+      "sentence",
+      "with",
+      "CA",
+      "##s",
+      "##E",
+      "s",
+      "##E",
+      "##n",
+      "##S",
+      "##i",
+      "##T",
+      "##i",
+      "##V",
+      "##i",
+      "##T",
+      "##y",
+      ".",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      1475,
+      1121,
+      1238,
+      35988,
+      30936,
+      1147,
+      31142,
+      1131,
+      4292,
+      190,
+      4292,
+      1274,
+      2609,
+      1206,
+      3845,
+      1206,
+      6073,
+      1206,
+      3845,
+      1412,
+      121,
+      105
+    ]
+  },
+  {
+    "text": "ಇದು ಕನ್ನಡ ಸಾಲು.",
+    "tokens": [
+      "[CLS]",
+      "ಇದು",
+      "ಕನ್ನಡ",
+      "ಸಾಲು",
+      ".",
+      "[SEP]"
+    ],
+    "input_ids": [
+      104,
+      1553,
+      2892,
+      68712,
+      121,
+      105
+    ]
+  }
+]

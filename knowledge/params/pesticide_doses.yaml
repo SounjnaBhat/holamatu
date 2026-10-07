@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../schemas/param.schema.json
+name: pesticide_recommended_agent
+unit: chemical_and_dose
+source: {doc: "ICAR-IIMR FAW Advisory", page: 8, year: 2023}
+agronomist_review: pending
+values:
+  - when: {pest_name: faw, pest_pressure: endemic}
+    value: "Emamectin benzoate 5% SG (0.4 g/litre)"
+  - when: {pest_name: faw}
+    value: "Chlorantraniliprole 18.5 SC (0.4 ml/litre)"
+  - when: {}
+    value: "standard pesticide"

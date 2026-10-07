@@ -1,0 +1,15 @@
+id: KA_DHARWAD
+name_en: Dharwad
+name_kn: ಧಾರವಾಡ
+parent: KA
+agro_climatic_zone: northern_transition      # Karnataka Zone 8
+weather_stations: [dharwad, hubballi, navalgund]
+centroid: {lat: 15.46, lon: 75.01}
+soils_present: [black_cotton, red_loam]      # a DISTRIBUTION, not a default
+dominant_soil: null                          # deliberately null — ask the farmer
+normal_annual_rainfall_mm: 780
+sowing_window: {kharif: [W23, W28], rabi: [W38, W42]}
+pest_pressure:
+  fall_armyworm: endemic                     # qualitative, drives messaging not dose
+taluks: [Dharwad, Hubballi, Kalghatgi, Kundgol, Navalgund, Annigeri, Alnavar]
+sources: [UAS Dharwad POP 2022, IMD normals 1991-2020]

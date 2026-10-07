@@ -1,0 +1,11 @@
+{
+  "name": "@advisor/eval",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@advisor/core": "1.0.0"
+  }
+}
