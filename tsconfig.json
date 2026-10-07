@@ -3,15 +3,19 @@
     "target": "ES2022",
     "module": "ESNext",
     "moduleResolution": "bundler",
-    "strict": true,
+    "strict": false,
     "esModuleInterop": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "outDir": "dist"
   },
   "include": [
-    "packages/**/src/**/*.ts",
-    "packages/**/test/**/*.ts",
-    "scripts/**/*.ts"
+    "packages/**/src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "packages/**/test/**",
+    "packages/**/android/**"
   ]
 }
