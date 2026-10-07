@@ -411,13 +411,16 @@ function MainAppContent() {
       style={{
         display: 'flex',
         flexDirection: 'column',
-        height: '100vh',
+        height: '100dvh',
+        minHeight: '100vh',
+        width: '100%',
         maxWidth: '540px',
         margin: '0 auto',
         background: 'var(--surface-page)',
         color: 'var(--text-primary)',
         boxShadow: '0 0 40px rgba(0,0,0,0.1)',
-        position: 'relative'
+        position: 'relative',
+        boxSizing: 'border-box'
       }}
     >
       {/* ── Header ── */}
@@ -426,7 +429,7 @@ function MainAppContent() {
           display: 'flex',
           alignItems: 'center',
           gap: '12px',
-          padding: '14px 16px',
+          padding: 'calc(12px + env(safe-area-inset-top, 0px)) 16px 12px',
           background: 'var(--surface-card)',
           borderBottom: '1px solid var(--border)',
           zIndex: 10
@@ -612,7 +615,7 @@ function MainAppContent() {
           display: 'flex',
           background: 'var(--surface-card)',
           borderTop: '1px solid var(--border)',
-          padding: '6px 0',
+          padding: '6px 0 calc(8px + env(safe-area-inset-bottom, 0px))',
           justifyContent: 'space-around',
           alignItems: 'center',
           zIndex: 10
