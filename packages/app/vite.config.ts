@@ -6,6 +6,11 @@ import path from 'path';
 
 export default defineConfig({
   envDir: path.resolve(__dirname, '../..'),
+  server: {
+    watch: {
+      ignored: ['**/android/**', '**/dist/**']
+    }
+  },
   plugins: [
     react(),
     VitePWA({
